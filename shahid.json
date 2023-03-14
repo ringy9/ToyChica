@@ -15,17 +15,17 @@
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
 
-            "fan_ban": "886964966006374_886965492672988",
-            "fan_native": "886964966006374_886965646006306",
-            "fan_int": "886964966006374_886965572672980",
+            "fan_ban": "760380248697071_760380528697043",
+            "fan_native": "760380248697071_760380648697031",
+            "fan_int": "760380248697071_760380575363705",
 
             "iron_key": "17417cb4d",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "cd1b84d6b3328614",
-            "max_native" : "2dc156e234fb61c0",
-            "max_int" : "6a91c30bcc0a0685"
+            "max_ban" : "fa1a15a3b3469cee",
+            "max_native" : "5a079f6389ce6ecb",
+            "max_int" : "7d7fc8f5e2645ba5"
         }
     ],
 
