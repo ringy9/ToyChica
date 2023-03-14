@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "network" : "max",
+            "network" : "is",
             "activate_ads" : "true",
             "int_interval" : 2,
 
@@ -19,7 +19,7 @@
             "fan_native": "886964966006374_886965646006306",
             "fan_int": "886964966006374_886965572672980",
 
-            "iron_key": "17417cb4d",
+            "iron_key": "1919485fd",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
