@@ -8,8 +8,8 @@
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
             "groups_news_active" : "on",
-            "iptv_active" : "off",
-            "live_active" : "off",
+            "iptv_active" : "on",
+            "live_active" : "on",
 
             "admob_ban": "ca-app-pub-7724387574680776/9255751291",
             "admob_native" : "ca-app-pub-7724387574680776/2279279402",
@@ -36,13 +36,13 @@
        {
             "title" : "HD BEIN SPORTS PREMUIM 1",
             "ico" : "https://i.postimg.cc/fbwJCPMC/bein-sports-premium-1.png",
-            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/523",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/285741",
             "type" : "iptv"
         },
         {
             "title" : "HD BEIN SPORTS PREMUIM 2",
             "ico" : "https://i.postimg.cc/qRqgVChC/bein-sports-premium-2.png",
-            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/525",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/285742",
             "type" : "iptv"
         },
        {
