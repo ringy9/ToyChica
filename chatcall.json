@@ -1,11 +1,11 @@
 {
   "monetizationProvider": {
     "SelectedAd": "admob",
-    "Inter_count": 2,
+    "Inter_count": 3,
     "admob": {
-      "Banner": "ca-app-pub-3940256099942544/6300978111",
-      "Inter": "ca-app-pub-3940256099942544/1033173712",
-      "Native": "ca-app-pub-3940256099942544/2247696110"
+      "Banner": "ca-app-pub-6641936473178471/7433196839",
+      "Inter": "ca-app-pub-6641936473178471/6093523990",
+      "Native": "ca-app-pub-6641936473178471/2313264928"
     },
     "ad_manager": {
       "Banner": "/6499/example/banner",
