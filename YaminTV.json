@@ -8,12 +8,12 @@
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
             "groups_news_active" : "on",
-            "iptv_active" : "off",
-            "live_active" : "off",
+            "iptv_active" : "on",
+            "live_active" : "on",
 
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban": "ca-app-pub-6641936473178471/3742245713",
+            "admob_native" : "ca-app-pub-6641936473178471/5985265673",
+            "admob_int": "ca-app-pub-6641936473178471/4931166316",
 
             "fan_ban": "886964966006374_886965492672988",
             "fan_native": "886964966006374_886965646006306",
@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "cd1b84d6b3328614",
-            "max_native" : "2dc156e234fb61c0",
-            "max_int" : "6a91c30bcc0a0685"
+            "max_ban" : "f91331da00fa1d93",
+            "max_native" : "908f38fddc989dad",
+            "max_int" : "f91331da00fa1d93"
         }
     ],
 
@@ -34,67 +34,67 @@
 
    "servers" : [
        {
-            "title" : "Bein Max 1 1080p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 1 720p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
        {
-            "title" : "Bein Max 1 480p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 2 1080p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 2 720p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
        {
-            "title" : "Bein Max 2 480p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         }
 
     ],
     "news" : [
         {
-            "title" : "بايرن ميونيخ يكرر تفوقه على باريس سان جيرمان ويصعد إلى ربع نهائي دوري أبطال أوروبا",
-            "img" : "https://i.postimg.cc/vZzqM8Fb/bayern-munich-psg-ligue-des-champions-8-mars-2023-a1511d-0-1x.jpg",
-            "details" : "تمكن بايرن ميونيخ من الفوز على باريس سان جيرمان بنتيجة 2-0 في المباراة التي أقيمت بينهما في إياب ربع نهائي دوري أبطال أوروبا. شهدت المباراة مستوى عاليًا من الأداء من الجانبين، خاصة في الشوط الأول الذي انتهى بالتعادل السلبي. في الشوط الثاني، تمكن تشوبو موتينغ من تسجيل الهدف الأول لبايرن ميونيخ في الدقيقة 61 بعد تمريرة حاسمة من ليون غوريتسكا. وفي الدقيقة 89، أضاف سيرج غنابري الهدف الثاني لصالح بايرن مستغلاً تمريرة حاسمة من البديل لوروا سانيه.بفوزه في مجموع مباراتي الذهاب والعودة (3-0)، تأهل بايرن ميونيخ إلى نصف نهائي دوري أبطال أوروبا، وسيواجه الفائز من مباراة ليفربول وريال مدريد. ومن الملاحظ أن لاعبين سابقين من سان جيرمان، تشوبو موتينغ وكينغسلي كومان، سجلا خمسة من أخر سبعة أهداف لبايرن ميونيخ في شباك سان جيرمان.",
-            "referral" : "https://www.beinsports.com/ar/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D9%8A%D8%AE-%D9%8A%D9%83%D8%B1%D8%B1-%D8%AA%D9%81%D9%88%D9%82%D9%87-/2051738"
+            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
+            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
+            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+            "referral" : ""
         },
         {
-            "title" : "ميلان يطيح بتوتنهام ويعبر إلى ربع نهائي دوري أبطال أوروبا",
-            "img" : "https://i.postimg.cc/MKtVpnTP/3556047-72430109-640-480.jpg",
-            "details" : "مباراة في دوري أبطال أوروبا بين فريقي توتنهام وميلان، حيث تم تأجيل المباراة عشر دقائق بسبب تأخر الفريقين في الوصول إلى الملعب بسبب الزحام. ولم يتمكن الفريقان من تسجيل أي أهداف في الشوط الأول، وظل اللقاء قائمًا حتى الدقيقة الأخيرة، حيث اضطر فريق توتنهام لإكمال المباراة بعشرة لاعبين بعد حصول أحدهم على الإنذار الثاني، وانتهت المباراة بالتعادل السلبي 0-0، ليتأهل ميلان إلى ربع النهائي بفوزه بمجموع المباراتين بهدف دون مقابل.",
-            "referral" : "https://www.theguardian.com/football/2022/nov/08/qatar-world-cup-ambassador-homosexuality"
+            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
+            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
+            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+            "referral" : ""
         },
         {
-            "title" : "بايرن ميونيخ يكرر تفوقه على باريس سان جيرمان ويصعد إلى ربع نهائي دوري أبطال أوروبا",
-            "img" : "https://i.postimg.cc/vZzqM8Fb/bayern-munich-psg-ligue-des-champions-8-mars-2023-a1511d-0-1x.jpg",
-            "details" : "تمكن بايرن ميونيخ من الفوز على باريس سان جيرمان بنتيجة 2-0 في المباراة التي أقيمت بينهما في إياب ربع نهائي دوري أبطال أوروبا. شهدت المباراة مستوى عاليًا من الأداء من الجانبين، خاصة في الشوط الأول الذي انتهى بالتعادل السلبي. في الشوط الثاني، تمكن تشوبو موتينغ من تسجيل الهدف الأول لبايرن ميونيخ في الدقيقة 61 بعد تمريرة حاسمة من ليون غوريتسكا. وفي الدقيقة 89، أضاف سيرج غنابري الهدف الثاني لصالح بايرن مستغلاً تمريرة حاسمة من البديل لوروا سانيه.بفوزه في مجموع مباراتي الذهاب والعودة (3-0)، تأهل بايرن ميونيخ إلى نصف نهائي دوري أبطال أوروبا، وسيواجه الفائز من مباراة ليفربول وريال مدريد. ومن الملاحظ أن لاعبين سابقين من سان جيرمان، تشوبو موتينغ وكينغسلي كومان، سجلا خمسة من أخر سبعة أهداف لبايرن ميونيخ في شباك سان جيرمان.",
-            "referral" : "https://www.beinsports.com/ar/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D9%8A%D8%AE-%D9%8A%D9%83%D8%B1%D8%B1-%D8%AA%D9%81%D9%88%D9%82%D9%87-/2051738"
+            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
+            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
+            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+            "referral" : ""
         },
         {
-            "title" : "ميلان يطيح بتوتنهام ويعبر إلى ربع نهائي دوري أبطال أوروبا",
-            "img" : "https://i.postimg.cc/MKtVpnTP/3556047-72430109-640-480.jpg",
-            "details" : "مباراة في دوري أبطال أوروبا بين فريقي توتنهام وميلان، حيث تم تأجيل المباراة عشر دقائق بسبب تأخر الفريقين في الوصول إلى الملعب بسبب الزحام. ولم يتمكن الفريقان من تسجيل أي أهداف في الشوط الأول، وظل اللقاء قائمًا حتى الدقيقة الأخيرة، حيث اضطر فريق توتنهام لإكمال المباراة بعشرة لاعبين بعد حصول أحدهم على الإنذار الثاني، وانتهت المباراة بالتعادل السلبي 0-0، ليتأهل ميلان إلى ربع النهائي بفوزه بمجموع المباراتين بهدف دون مقابل.",
-            "referral" : "https://www.theguardian.com/football/2022/nov/08/qatar-world-cup-ambassador-homosexuality"
+            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
+            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
+            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+            "referral" : ""
         }
     ]
 
