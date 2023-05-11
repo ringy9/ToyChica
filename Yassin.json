@@ -11,9 +11,9 @@
             "iptv_active" : "off",
             "live_active" : "off",
 
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban": "ca-app-pub-6641936473178471/3742245713",
+            "admob_native" : "ca-app-pub-6641936473178471/5985265673",
+            "admob_int": "ca-app-pub-6641936473178471/4931166316",
 
             "fan_ban": "886964966006374_886965492672988",
             "fan_native": "886964966006374_886965646006306",
@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "cd1b84d6b3328614",
-            "max_native" : "2dc156e234fb61c0",
-            "max_int" : "6a91c30bcc0a0685"
+            "max_ban" : "f91331da00fa1d93",
+            "max_native" : "908f38fddc989dad",
+            "max_int" : "f91331da00fa1d93"
         }
     ],
 
@@ -34,39 +34,39 @@
 
    "servers" : [
        {
-            "title" : "Bein Max 1 1080p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 1 720p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
        {
-            "title" : "Bein Max 1 480p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 2 1080p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 2 720p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         },
        {
-            "title" : "Bein Max 2 480p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "beIN Sports Premium HD1",
+            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
+            "link" : "http://premiumiptvmk.com:8080/GenIptvLast/NQfNDZ8f27uhJhMv/109",
             "type" : "iptv"
         }
 
