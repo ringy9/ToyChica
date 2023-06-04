@@ -32,41 +32,41 @@
 
 
 
-      "servers" : [
+    "servers" : [
        {
+            "title" : "beIN Sports SD4",
+            "ico" : "https://i.postimg.cc/JnYDYzDW/ahli.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3247.ts",
+            "type" : "iptv"
+        },
+        {
             "title" : "beIN Sports HD4",
             "ico" : "https://i.postimg.cc/JnYDYzDW/ahli.png",
-            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/1207",
-            "type" : "iptv"
-        },
-        {
-            "title" : "beIN Sports HD4",
-            "ico" : "https://i.postimg.cc/JnYDYzDW/ahli.png",
-            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/78",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/49606.ts",
             "type" : "iptv"
         },
        {
-            "title" : "beIN Sports HD1",
+            "title" : "beIN Sports SD1",
             "ico" : "https://i.postimg.cc/tg6tZfTj/liga.png",
-            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/1204",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3244.ts",
             "type" : "iptv"
         },
         {
             "title" : "beIN Sports HD1",
             "ico" : "https://i.postimg.cc/tg6tZfTj/liga.png",
-            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/75",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/1.ts",
             "type" : "iptv"
         },
         {
-            "title" : "beIN Sports HD1",
+            "title" : "beIN Sports SD1",
             "ico" : "https://i.postimg.cc/fTwNHQn8/222.png",
-            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/1204",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3244.ts",
             "type" : "iptv"
         },
        {
             "title" : "beIN Sports HD1",
             "ico" : "https://i.postimg.cc/fTwNHQn8/222.png",
-            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/75",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/1.ts",
             "type" : "iptv"
         }
 
