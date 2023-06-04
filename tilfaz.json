@@ -32,70 +32,77 @@
 
 
 
-   "servers" : [
+    "servers" : [
        {
-            "title" : "beIN Sports Premium HD1",
-            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/A9AzTWyLWd/xM3eDbamLt/9.ts",
+            "title" : "beIN Sports HD4",
+            "ico" : "https://i.postimg.cc/JnYDYzDW/ahli.png",
+            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/1207",
             "type" : "iptv"
         },
         {
-            "title" : "beIN Sports Premium  HD1",
-            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/A9AzTWyLWd/xM3eDbamLt/9.ts",
+            "title" : "beIN Sports HD4",
+            "ico" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/78",
             "type" : "iptv"
         },
        {
-            "title" : "beIN Sports Premium HD1",
-            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/A9AzTWyLWd/xM3eDbamLt/9.ts",
+            "title" : "beIN Sports HD1",
+            "ico" : "https://i.postimg.cc/tg6tZfTj/liga.png",
+            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/1204",
             "type" : "iptv"
         },
         {
-            "title" : "beIN Sports Premium HD1",
-            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/A9AzTWyLWd/xM3eDbamLt/9.ts",
+            "title" : "beIN Sports HD1",
+            "ico" : "https://i.postimg.cc/tg6tZfTj/liga.png",
+            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/75",
             "type" : "iptv"
         },
         {
-            "title" : "beIN Sports Premium  HD1",
-            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/A9AzTWyLWd/xM3eDbamLt/9.ts",
+            "title" : "beIN Sports HD1",
+            "ico" : "https://i.postimg.cc/fTwNHQn8/222.png",
+            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/1204",
             "type" : "iptv"
         },
        {
-            "title" : "beIN Sports Premium HD1",
-            "ico" : "https://i.postimg.cc/T3DMNXDw/bein-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/A9AzTWyLWd/xM3eDbamLt/9.ts",
+            "title" : "beIN Sports HD1",
+            "ico" : "https://i.postimg.cc/fTwNHQn8/222.png",
+            "link" : "http://fxorexworld.com:8080/HYVoX1gSqV/LqnvFnZQGy/75",
             "type" : "iptv"
         }
 
     ],
     "news" : [
         {
-            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
-            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
-            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+            "title" : "Música",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
             "referral" : ""
         },
         {
-            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
-            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
-            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+            "title" : "Entretenimiento",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
             "referral" : ""
         },
-        {
-            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
-            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
-            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+                {
+            "title" : "Educación",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
             "referral" : ""
         },
-        {
-            "title" : "Erling Haaland is special but Lionel Messi remains untouchable: Barcelona legend's greatest season revisited",
-            "img" : "https://i.postimg.cc/Dw4X7n6T/Haaland-Messi-GFX.webp",
-            "details" : "Erling Haaland's impressive goal-scoring record for Manchester City is undeniable, but he still has a long way to go before matching the incredible feats of Lionel Messi's best campaign. While Haaland has already netted 50 goals across all competitions this season, including 34 in the Premier League, Messi scored a staggering 73 goals for Barcelona during their 2011-12 season.Despite playing in a struggling Barcelona side that was coming to the end of an era, Messi was still able to produce some of the most outstanding performances in football history. One such moment came in a La Liga match against Malaga, where Messi scored what is widely considered as one of the best hat-tricks of his career.In that game, Messi showcased his immense skills and creativity by scoring three superb goals. The first was a powerful header from an Adriano cross, the second a mesmerizing run past three defenders before a calm finish, and the third a lightning-fast dummy before sliding the ball past the keeper. Messi's incredible record-breaking season remains a testament to his unique talent and skill, and a reminder of just how far Haaland has to go to reach the same level.",
+                {
+            "title" : "Familia",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
+            "referral" : ""
+        },
+                {
+            "title" : "DEPORTES",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
             "referral" : ""
         }
+
     ]
 
 }
