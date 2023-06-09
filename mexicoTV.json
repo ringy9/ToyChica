@@ -34,39 +34,64 @@
 
     "servers" : [
        {
-            "title" : "beIN Sports SD4",
-            "ico" : "https://i.postimg.cc/JnYDYzDW/ahli.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3247.ts",
+            "title" : "beIN SPORTS 1 PREMIUM",
+            "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/9.ts",
             "type" : "iptv"
         },
         {
-            "title" : "beIN Sports HD4",
-            "ico" : "https://i.postimg.cc/JnYDYzDW/ahli.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/49606.ts",
+            "title" : "beIN SPORTS 2 PREMIUM",
+            "ico" : "https://i.postimg.cc/d09ZnGLh/p-2.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/8.ts",
             "type" : "iptv"
         },
        {
-            "title" : "beIN Sports SD1",
-            "ico" : "https://i.postimg.cc/tg6tZfTj/liga.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3244.ts",
+            "title" : "beIN SPORTS 3 PREMIUM",
+            "ico" : "https://i.postimg.cc/85PJYs6t/p-3.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/11.ts",
             "type" : "iptv"
         },
         {
-            "title" : "beIN Sports HD1",
-            "ico" : "https://i.postimg.cc/tg6tZfTj/liga.png",
+            "title" : "beIN SPORTS HD1",
+            "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
             "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/1.ts",
             "type" : "iptv"
         },
         {
-            "title" : "beIN Sports SD1",
-            "ico" : "https://i.postimg.cc/fTwNHQn8/222.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3244.ts",
+            "title" : "beIN SPORTS HD2",
+            "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/2.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS HD3",
+            "ico" : "https://i.postimg.cc/9XgTvP1T/3.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3.ts",
+            "type" : "iptv"
+        },
+        
+                {
+            "title" : "beIN SPORTS HD4",
+            "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/4.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS HD5",
+            "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/49605.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS HD6",
+            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/6.ts",
             "type" : "iptv"
         },
        {
-            "title" : "beIN Sports HD1",
-            "ico" : "https://i.postimg.cc/fTwNHQn8/222.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/1.ts",
+            "title" : "beIN SPORTS HD7",
+            "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/7.ts",
             "type" : "iptv"
         }
 
