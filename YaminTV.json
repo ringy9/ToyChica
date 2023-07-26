@@ -33,6 +33,20 @@
 
 
     "servers" : [
+
+                       {
+            "title" : "AD Sport 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/430",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport 2",
+            "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
+            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
+            "type" : "iptv"
+        },
+
        {
             "title" : "beIN SPORTS 1 PREMIUM",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
@@ -92,18 +106,6 @@
             "title" : "beIN SPORTS HD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
             "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/7.ts",
-            "type" : "iptv"
-        },
-               {
-            "title" : "AD Sport 1",
-            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
-            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/430",
-            "type" : "iptv"
-        },
-               {
-            "title" : "AD Sport 2",
-            "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
             "type" : "iptv"
         }
 
