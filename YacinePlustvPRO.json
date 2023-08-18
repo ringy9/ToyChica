@@ -2,7 +2,7 @@
     "config" : [
         {
             "network" : "max",
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "int_interval" : 2,
 
             "groups_box_active" : "off",
