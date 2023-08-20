@@ -46,6 +46,18 @@
             "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
             "type" : "iptv"
         },
+                               {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport Premium 2",
+            "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54848.ts",
+            "type" : "iptv"
+        },
 
        {
             "title" : "beIN SPORTS 1 PREMIUM",
