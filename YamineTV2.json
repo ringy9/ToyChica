@@ -32,7 +32,7 @@
 
 
 
-    "servers" : [
+  "servers" : [
 
                        {
             "title" : "AD Sport 1",
@@ -46,6 +46,18 @@
             "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
             "type" : "iptv"
         },
+                               {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport Premium 2",
+            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54848.ts",
+            "type" : "iptv"
+        },
 
        {
             "title" : "beIN SPORTS 1 PREMIUM",
@@ -56,13 +68,13 @@
         {
             "title" : "beIN SPORTS 2 PREMIUM",
             "ico" : "http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153268",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/73",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/8.ts",
             "type" : "iptv"
         },
        {
             "title" : "beIN SPORTS 3 PREMIUM",
             "ico" : "https://i.postimg.cc/85PJYs6t/p-3.png",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/74",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/11.ts",
             "type" : "iptv"
         },
         {
@@ -74,38 +86,38 @@
         {
             "title" : "beIN SPORTS HD2",
             "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/1221",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/2.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD3",
             "ico" : "https://i.postimg.cc/9XgTvP1T/3.png",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/1222",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3.ts",
             "type" : "iptv"
         },
         
                 {
             "title" : "beIN SPORTS HD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/1223",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/4.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/1224",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49383.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/1225",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49384.ts",
             "type" : "iptv"
         },
        {
             "title" : "beIN SPORTS HD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
-            "link" : "http://tmaster.myftp.org:8080/PFrdm6pZQr/MrtmHFIUjr/1226",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49385.ts",
             "type" : "iptv"
         },
                {
