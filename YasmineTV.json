@@ -32,7 +32,7 @@
 
 
 
-    "servers" : [
+ "servers" : [
 
                        {
             "title" : "AD Sport 1",
@@ -46,113 +46,142 @@
             "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
             "type" : "iptv"
         },
+                               {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport Premium 2",
+            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54848.ts",
+            "type" : "iptv"
+        },
 
        {
             "title" : "beIN SPORTS 1 PREMIUM",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/9.ts",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/9.ts",
             "type" : "iptv"
         },
         {
             "title" : "beIN SPORTS 2 PREMIUM",
-            "ico" : "https://i.postimg.cc/d09ZnGLh/p-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/8.ts",
+            "ico" : "http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153268",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/8.ts",
             "type" : "iptv"
         },
        {
             "title" : "beIN SPORTS 3 PREMIUM",
             "ico" : "https://i.postimg.cc/85PJYs6t/p-3.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/11.ts",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/11.ts",
             "type" : "iptv"
         },
         {
             "title" : "beIN SPORTS HD1",
             "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/1.ts",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/1.ts",
             "type" : "iptv"
         },
         {
             "title" : "beIN SPORTS HD2",
             "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/2.ts",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/2.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD3",
             "ico" : "https://i.postimg.cc/9XgTvP1T/3.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/3.ts",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3.ts",
             "type" : "iptv"
         },
         
                 {
             "title" : "beIN SPORTS HD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/4.ts",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/4.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/49605.ts",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49383.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/6.ts",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49384.ts",
             "type" : "iptv"
         },
        {
             "title" : "beIN SPORTS HD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/7.ts",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49385.ts",
             "type" : "iptv"
         },
                {
             "title" : "SSC 1 HD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/54301.ts",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139510",
             "type" : "iptv"
         },
                {
             "title" : "SSC 2 HD",
             "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/54302.ts",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139511",
             "type" : "iptv"
         },
                {
             "title" : "SSC 3 HD",
             "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/54303.ts",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139512",
             "type" : "iptv"
         },
                {
             "title" : "SSC 4 HD",
             "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/54304.ts",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139513",
             "type" : "iptv"
         },
                {
             "title" : "SSC 5 HD",
             "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/54305.ts",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139514",
+            "type" : "iptv"
+        },
+          {
+            "title" : "SSC 6 HD",
+            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139515",
+            "type" : "iptv"
+        },
+          {
+            "title" : "SSC 7 HD",
+            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139516",
             "type" : "iptv"
         },
                {
             "title" : "SSC EXTRA 1 HD",
             "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/54896.ts",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/200593",
             "type" : "iptv"
         },
                {
             "title" : "SSC EXTRA 2 HD",
             "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/jtFHMDAwXsEyvgR63TBH74CA/54897.ts",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/200594",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC EXTRA 3 HD",
+            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/200595",
             "type" : "iptv"
         }
 
-    ],
-    "news" : [
+    ],    "news" : [
         {
             "title" : "Música",
             "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
