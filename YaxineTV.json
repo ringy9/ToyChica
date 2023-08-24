@@ -23,16 +23,16 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "1afb85996e6817af",
-            "max_native" : "cad86a0274f35177",
-            "max_int" : "0e869d4f8056ccb1"
+            "max_ban" : "9682ee3815225b0c",
+            "max_native" : "a7f6dab461f4e9f6",
+            "max_int" : "ae118592ed0ed3d7"
         }
     ],
 
 
 
 
-  "servers" : [
+    "servers" : [
 
                        {
             "title" : "AD Sport 1",
@@ -164,6 +164,7 @@
         }
 
     ],
+
 
     "news" : [
         {
