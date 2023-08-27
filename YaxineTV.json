@@ -31,6 +31,7 @@
 
 
 
+
     "servers" : [
                                {
             "title" : "ARRIADIA HD",
@@ -67,13 +68,13 @@
        {
             "title" : "beIN SPORTS 1 PREMIUM SD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/56",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1133",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 1 PREMIUM HD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1174",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1104",
             "type" : "iptv"
         },
                {
@@ -85,13 +86,13 @@
         {
             "title" : "beIN SPORTS 2 PREMIUM SD",
             "ico" : "https://i.postimg.cc/g2wz1dH8/Untitled-2.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/57",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1134",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 PREMIUM HD",
             "ico" : "https://i.postimg.cc/g2wz1dH8/Untitled-2.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/47",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1105",
             "type" : "iptv"
         },
                 {
@@ -103,13 +104,13 @@
        {
             "title" : "beIN SPORTS 3 PREMIUM SD",
             "ico" : "https://i.postimg.cc/85PJYs6t/p-3.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/58",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1135",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 3 PREMIUM HD",
             "ico" : "https://i.postimg.cc/85PJYs6t/p-3.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/48",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1106",
             "type" : "iptv"
         },
                {
@@ -121,13 +122,13 @@
         {
             "title" : "beIN SPORTS SD1",
             "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/59",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1136",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD1",
             "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1162",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1107",
             "type" : "iptv"
         },
                 {
@@ -139,13 +140,13 @@
         {
             "title" : "beIN SPORTS SD2",
             "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/60",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1137",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD2",
             "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1163",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1108",
             "type" : "iptv"
         },
                 {
@@ -157,13 +158,13 @@
                 {
             "title" : "beIN SPORTS SD3",
             "ico" : "https://i.postimg.cc/9XgTvP1T/3.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/93",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1138",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD3",
             "ico" : "https://i.postimg.cc/9XgTvP1T/3.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1164",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1109",
             "type" : "iptv"
         },
                         {
@@ -176,13 +177,13 @@
                 {
             "title" : "beIN SPORTS SD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/92",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1139",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD4",
             "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1165",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1110",
             "type" : "iptv"
         },
                         {
@@ -194,13 +195,13 @@
                 {
             "title" : "beIN SPORTS SD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/91",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1140",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1166",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1111",
             "type" : "iptv"
         },
                         {
@@ -212,13 +213,13 @@
                 {
             "title" : "beIN SPORTS SD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/61",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1141",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1167",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1112",
             "type" : "iptv"
         },
                         {
@@ -230,13 +231,13 @@
        {
             "title" : "beIN SPORTS SD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
-            "link" : "http://ugeen.live:8080/Ugeen_m2hS5d/uXduPM/4035",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1142",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS HD7",
             "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
-            "link" : "http://iptv.journalsat.com:25461/821381325/journalsat/1168",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1113",
             "type" : "iptv"
         },
                {
@@ -245,131 +246,216 @@
             "link" : "http://new-pro.tv:8080/99622282/etbVXafU6f/154704",
             "type" : "iptv"
         },
+                       {
+            "title" : "⚽ beIN XTRA 1",
+            "ico" : "https://i.postimg.cc/TYFm2QCs/xtra1.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1124",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "⚽ beIN XTRA 2",
+            "ico" : "https://i.postimg.cc/yNzZcxqX/xtra2.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1125",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN French 1",
+            "ico" : "https://i.postimg.cc/7PB0dq7w/fr1.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1121",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN French 2",
+            "ico" : "https://i.postimg.cc/Y0yFWxkh/fr2.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1122",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN French 3",
+            "ico" : "https://i.postimg.cc/y8RRD9G8/fr3.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/1123",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN English ①",
+            "ico" : "https://i.postimg.cc/Qtm1X3yg/eg1.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7668",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN English ②",
+            "ico" : "https://i.postimg.cc/T1Pm14zz/eg2.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7669",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN English ③",
+            "ico" : "https://i.postimg.cc/qMzydWXn/eg3.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7670",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "beIN Sports AFCᴴᴰ",
+            "ico" : "https://i.postimg.cc/2SLQng1m/afc.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/24027",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "beIN Sports AFC 1ᴴᴰ",
+            "ico" : "https://i.postimg.cc/fb4xC5dd/afc1.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/24028",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "beIN Sports AFC 2ᴴᴰ",
+            "ico" : "https://i.postimg.cc/HLQbh50h/afc2.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/24029",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "beIN Sports AFC 3ᴴᴰ",
+            "ico" : "https://i.postimg.cc/bJp1cJ3N/afc3.png",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/24030",
+            "type" : "iptv"
+        },
+
+
+
+        
                {
             "title" : "SSC 1 SD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280132",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7286",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 1 HD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/139021.ts",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21425",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 1 FHD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/139021.ts",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7307",
             "type" : "iptv"
         },
                {
             "title" : "SSC 2 SD",
             "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
-            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280137",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21426",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 2 HD",
             "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
-            "link" : "http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/139025.ts",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21426",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 2 FHD",
             "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
-            "link" : "http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/139024.ts",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7308",
             "type" : "iptv"
         },
                {
             "title" : "SSC 3 SD",
             "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
-            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280134",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21427",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 3 HD",
             "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/21427",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21427",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 3 FHD",
             "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/7309",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7309",
             "type" : "iptv"
         },
                {
             "title" : "SSC 4 SD",
             "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
-            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280133",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21428",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 4 HD",
             "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/21428",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21428",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 4 FHD",
             "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/7310",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7310",
             "type" : "iptv"
         },
                {
             "title" : "SSC 5 SD",
             "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
-            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280135",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21429",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 5 HD",
             "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/21429",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21429",
             "type" : "iptv"
         },
                        {
             "title" : "SSC 5 FHD",
             "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/7311",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/7311",
             "type" : "iptv"
         },
 
                {
             "title" : "SSC EXTRA 1 SD",
             "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/280136",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21430",
             "type" : "iptv"
         },
                        {
             "title" : "SSC EXTRA 1 HD",
             "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280136",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21430",
             "type" : "iptv"
         },
                        {
             "title" : "SSC EXTRA 1 FHD",
             "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/21430",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21430",
             "type" : "iptv"
         },
                {
             "title" : "SSC EXTRA 2 SD",
             "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
-            "link" : "http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/281462",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21431",
             "type" : "iptv"
         },
                        {
             "title" : "SSC EXTRA 2 HD",
             "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/21431",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21431",
             "type" : "iptv"
         },
                        {
             "title" : "SSC EXTRA 2 FHD",
             "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
-            "link" : "http://free.one24tv.com:80/28191693002432/28191693002432/21431",
+            "link" : "http://free.one24tv.com:80/76061693131739/76061693131739/21431",
             "type" : "iptv"
         },
                        {
@@ -379,8 +465,7 @@
             "type" : "iptv"
         }
 
-    ],
-    
+    ],    
     "news" : [
         {
             "title" : "Música",
