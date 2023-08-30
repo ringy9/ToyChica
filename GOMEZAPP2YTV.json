@@ -31,68 +31,38 @@
 
 
 
-
     "servers" : [
-                               {
-            "title" : "ARRIADIA HD",
-            "ico" : "https://i.postimg.cc/L5Fpjx0y/Untitled-1.png",
-            "link" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
-            "type" : "iptv"
-        },
 
-                       {
-            "title" : "AD Sport 1",
-            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
-            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/430",
-            "type" : "iptv"
-        },
-               {
-            "title" : "AD Sport 2",
-            "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
-            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
-            "type" : "iptv"
-        },
-                               {
-            "title" : "AD Sport Premium 1",
-            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
-            "type" : "iptv"
-        },
-               {
-            "title" : "AD Sport Premium 2",
-            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54848.ts",
-            "type" : "iptv"
-        },
+
 
        {
             "title" : "beIN SPORTS 1 PREMIUM SD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/47269",
+            "link" : "http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/109",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 1 PREMIUM HD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/109",
+            "link" : "http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/109",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 1 PREMIUM FHD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
-            "link" : "http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20442",
+            "link" : "http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/109",
             "type" : "iptv"
         },
         {
             "title" : "beIN SPORTS 2 PREMIUM SD",
             "ico" : "https://i.postimg.cc/g2wz1dH8/Untitled-2.png",
-            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/25023.ts",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280145",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 PREMIUM HD",
             "ico" : "https://i.postimg.cc/g2wz1dH8/Untitled-2.png",
-            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/25023.ts",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280145",
             "type" : "iptv"
         },
                 {
@@ -458,14 +428,95 @@
             "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/200594",
             "type" : "iptv"
         },
-                       {
+      {
             "title" : "SSC EXTRA 3 HD",
             "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
             "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/200595",
             "type" : "iptv"
+        },
+              {
+            "title" : "Al Kass One HD",
+            "ico" : "https://i.postimg.cc/tTzmfm05/1.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/26389",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Two HD",
+            "ico" : "https://i.postimg.cc/sx6HfQgG/2.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/11899",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Three HD",
+            "ico" : "https://i.postimg.cc/SQDvf5fQ/3.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/265157",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Four HD",
+            "ico" : "https://i.postimg.cc/vTHSdLbd/4.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/11900",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Five HD",
+            "ico" : "https://i.postimg.cc/CL56PNcG/5.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/11901",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Six HD",
+            "ico" : "https://i.postimg.cc/VLhZ3Ch3/6.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/297008",
+            "type" : "iptv"
+        },
+                {
+            "title" : "KTV Sport 1HD",
+            "ico" : "https://i.postimg.cc/Pf7rF6th/SS.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1250",
+            "type" : "iptv"
+        },
+         {
+            "title" : "KTV Sport 2HD",
+            "ico" : "https://i.postimg.cc/Pf7rF6th/SS.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/245622",
+            "type" : "iptv"
+        },
+         {
+            "title" : "ARRIADIA HD",
+            "ico" : "https://i.postimg.cc/L5Fpjx0y/Untitled-1.png",
+            "link" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "AD Sport 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/430",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport 2",
+            "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
+            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
+            "type" : "iptv"
+        },
+                               {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport Premium 2",
+            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54848.ts",
+            "type" : "iptv"
         }
 
     ],
+
+    
     "news" : [
         {
             "title" : "Música",
