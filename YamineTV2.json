@@ -33,6 +33,38 @@
 
 
     "servers" : [
+
+                       {
+            "title" : "SSC 1 SD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/9735",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 1 HD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/64189",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 1 FHD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/9735",
+            "type" : "iptv"
+        },
+
+                               {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport Premium 2",
+            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
+            "link" : "http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/79062",
+            "type" : "iptv"
+        },
                                {
             "title" : "ARRIADIA HD",
             "ico" : "https://i.postimg.cc/L5Fpjx0y/Untitled-1.png",
