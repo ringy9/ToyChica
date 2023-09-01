@@ -34,7 +34,27 @@
 
     "servers" : [
 
+               {
+            "title" : "SSC 1 SD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/64189",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 1 HD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/64189",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 1 FHD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://sansat.net:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/139510",
+            "type" : "iptv"
+        },
 
+
+        
 
        {
             "title" : "beIN SPORTS 1 PREMIUM SD",
