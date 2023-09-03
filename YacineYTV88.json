@@ -33,6 +33,13 @@
 
     "servers" : [
 
+                 {
+            "title" : "ARRIADIA HD",
+            "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/11173",
+            "type" : "iptv"
+        },
+
         {
             "title" : "AD Sport Premium 1",
             "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
