@@ -33,26 +33,8 @@
 
     "servers" : [
 
-               {
-            "title" : "SSC 1 SD",
-            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280132",
-            "type" : "iptv"
-        },
-               {
-            "title" : "SSC 5 SD",
-            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280135",
-            "type" : "iptv"
-        },
-
-               {
-            "title" : "SSC EXTRA 1 SD",
-            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280136",
-            "type" : "iptv"
-        },
-                               {
+ 
+        {
             "title" : "AD Sport Premium 1",
             "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
             "link" : "http://ugeen.live:8080/Ugeen_VIPvdWtaf/KTXiJ6/4107",
