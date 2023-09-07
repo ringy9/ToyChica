@@ -34,13 +34,21 @@
 
     "servers" : [
 
-        
+
                         {
-            "title" : "beIN SPORTS SD4",
-            "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/101",
+            "title" : "beIN SPORTS SD5",
+            "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/102",
             "type" : "iptv"
         },
+                       {
+            "title" : "beIN SPORTS SD6",
+            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
+            "link" : "http://new-pro.tv:8080/99622282/etbVXafU6f/154701",
+            "type" : "iptv"
+        },
+
+
         
 
          {
@@ -194,25 +202,25 @@
                 {
             "title" : "beIN SPORTS SD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/104",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/102",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/104",
+            "link" : "http://gamsgo.cyou:8080/protoniumtv2020/BEsFfJ53gJrRXqde/102",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS FHD5",
             "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/104",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/102",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS SD6",
             "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/105",
+            "link" : "http://new-pro.tv:8080/99622282/etbVXafU6f/154701",
             "type" : "iptv"
         },
                         {
