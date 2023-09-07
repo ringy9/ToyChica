@@ -34,10 +34,30 @@
 
     "servers" : [
 
+                {
+            "title" : "beIN SPORTS SD1",
+            "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/109",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS SD2",
+            "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280145",
+            "type" : "iptv"
+        },
+
+
                         {
-            "title" : "beIN SPORTS SD4",
-            "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/101",
+            "title" : "beIN SPORTS SD5",
+            "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/102",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "beIN SPORTS SD6",
+            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
+            "link" : "http://hardcoremedia.xyz:80/dkkpgtxx/1052936317/13905",
             "type" : "iptv"
         },
         
