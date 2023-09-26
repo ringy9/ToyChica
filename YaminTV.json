@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 1,
+            "int_interval" : 2,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -607,33 +607,33 @@
     "news" : [
         {
             "title" : "قم بتحميل التطبق الجديد",
-            "img" : "https://i.postimg.cc/cH3MjGkx/Whats-App-Image-2023-09-21-12-44-33.jpg",
+            "img" : "https://i.postimg.cc/tR1WSJ8j/Whats-App-Image-2023-09-26-12-23-02.jpg",
             "details" : "قم بتحميل التطبق الجديد",
-            "referral" : "https://play.google.com/store/apps/details?id=com.yacinetv.LiveYTV"
+            "referral" : "https://play.google.com/store/apps/details?id=com.YassinTV.TVliveyacine"
         },
         {
             "title" : "قم بتحميل التطبق الجديد",
-            "img" : "https://i.postimg.cc/cH3MjGkx/Whats-App-Image-2023-09-21-12-44-33.jpg",
+            "img" : "https://i.postimg.cc/tR1WSJ8j/Whats-App-Image-2023-09-26-12-23-02.jpg",
             "details" : "قم بتحميل التطبق الجديد",
-            "referral" : "https://play.google.com/store/apps/details?id=com.yacinetv.LiveYTV"
+            "referral" : "https://play.google.com/store/apps/details?id=com.YassinTV.TVliveyacine"
         },
                 {
             "title" : "قم بتحميل التطبق الجديد",
-            "img" : "https://i.postimg.cc/cH3MjGkx/Whats-App-Image-2023-09-21-12-44-33.jpg",
+            "img" : "https://i.postimg.cc/tR1WSJ8j/Whats-App-Image-2023-09-26-12-23-02.jpg",
             "details" : "قم بتحميل التطبق الجديد",
-            "referral" : "https://play.google.com/store/apps/details?id=com.yacinetv.LiveYTV"
+            "referral" : "https://play.google.com/store/apps/details?id=com.YassinTV.TVliveyacine"
         },
                 {
             "title" : "قم بتحميل التطبق الجديد",
-            "img" : "https://i.postimg.cc/ZYjT1BGQ/image.png",
+            "img" : "https://i.postimg.cc/tR1WSJ8j/Whats-App-Image-2023-09-26-12-23-02.jpg",
             "details" : "قم بتحميل التطبق الجديد",
-            "referral" : "https://play.google.com/store/apps/details?id=com.yacinetv.LiveYTV"
+            "referral" : "https://play.google.com/store/apps/details?id=com.YassinTV.TVliveyacine"
         },
                 {
             "title" : "قم بتحميل التطبق الجديد",
-            "img" : "https://i.postimg.cc/ZYjT1BGQ/image.png",
+            "img" : "https://i.postimg.cc/tR1WSJ8j/Whats-App-Image-2023-09-26-12-23-02.jpg",
             "details" : "قم بتحميل التطبق الجديد",
-            "referral" : "https://play.google.com/store/apps/details?id=com.yacinetv.LiveYTV"
+            "referral" : "https://play.google.com/store/apps/details?id=com.YassinTV.TVliveyacine"
         }
 
     ]
